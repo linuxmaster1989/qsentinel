@@ -1,3 +1,5 @@
+"Verified functional on Ubuntu 24.04 via GitHub clone test - May 2026."
+
 sudo apt update && sudo apt upgrade -y
 sudo apt install python3-pip unzip curl -y
 
