@@ -11,6 +11,7 @@ sudo ./aws/install
 rm -rf awscliv2.zip aws/
 
 sudo aws configure
+# Set Region to: us-west-1
 
 sudo pip3 install amazon-braket-sdk questionary
 
